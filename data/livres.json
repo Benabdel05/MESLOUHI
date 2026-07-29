@@ -1,0 +1,29 @@
+[
+  {
+    "titre": "Notre Maroc Amazigh",
+    "auteur": "Abdellah MESLOUHI",
+    "categorie": "Culture Amazighe",
+    "langue": "Français",
+    "image": "images/couvertures/default-cover.jpg",
+    "pdf": "pdf/amazigh/notre-maroc-amazigh.pdf",
+    "description": "Un ouvrage consacré à l'identité, l'histoire et le patrimoine amazigh du Maroc."
+  },
+  {
+    "titre": "Introduction au développement Web",
+    "auteur": "Plateforme MESLOUHI",
+    "categorie": "Informatique",
+    "langue": "Français",
+    "image": "images/couvertures/default-cover.jpg",
+    "pdf": "pdf/informatique/developpement-web.pdf",
+    "description": "Un guide d'initiation aux technologies HTML, CSS et JavaScript."
+  },
+  {
+    "titre": "Guide des langues étrangères",
+    "auteur": "Plateforme MESLOUHI",
+    "categorie": "Langues",
+    "langue": "Multilingue",
+    "image": "images/couvertures/default-cover.jpg",
+    "pdf": "pdf/langues/guide-langues.pdf",
+    "description": "Ressources pour l'apprentissage des langues."
+  }
+]
