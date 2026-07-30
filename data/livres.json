@@ -9,6 +9,15 @@
     "description": "Un ouvrage consacré à l'identité, l'histoire et le patrimoine amazigh du Maroc."
   },
   {
+    "titre": "Introduction aux sciences de l'éducation",
+    "auteur": "Abdellah MESLOUHI",
+    "categorie": "Sciences de l'éducation",
+    "langue": "Français",
+    "image": "images/couvertures/default-cover.jpg",
+    "pdf": "pdf/amazigh/notre-maroc-amazigh.pdf",
+    "description": "Un ouvrage destiné a acquerir des connaissances de base en zciences del'éducation."
+  },
+  {
     "titre": "Introduction au développement Web",
     "auteur": "Plateforme MESLOUHI",
     "categorie": "Informatique",
